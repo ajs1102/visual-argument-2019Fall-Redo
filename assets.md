@@ -1,11 +1,7 @@
-# Proposals
+# Assets
 
-- Image of a full set of dice
+- Image of a full set of dice: Diacritica [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)] https://commons.wikimedia.org/wiki/File:Dice_(typical_role_playing_game_dice).jpg
 
-- Artwork of a cave or dungeon
+- Image of a mountain: Maria Ly [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/deed.en)]https://commons.wikimedia.org/wiki/File:K2,_Mount_Godwin_Austen,_Chogori,_Savage_Mountain.jpg
 
-- Artwork of a giant or dragon
-
-- Image of a pizza
-
-Images and artwork will most likely be found on wikimedia, pinterest, or deviantart
+- Artwork of a dragon: LadyOfHats [CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/deed.en] https://commons.wikimedia.org/wiki/File:DnD_Dragon.png
