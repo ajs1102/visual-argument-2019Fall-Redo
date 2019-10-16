@@ -7,3 +7,5 @@
 - Artwork of a dragon: LadyOfHats [CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/deed.en] https://commons.wikimedia.org/wiki/File:DnD_Dragon.png
 
 - Castle Picture: Softeis [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/deed.en)] https://commons.wikimedia.org/wiki/File:Castle_Neuschwanstein.jpg
+
+- Moon: Gregory H. Revera [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)] https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg
