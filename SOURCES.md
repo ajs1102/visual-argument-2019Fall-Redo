@@ -11,3 +11,5 @@
 - Moon: Gregory H. Revera [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)] https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg
 
 - Treasure: [CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/deed.en] https://www.maxpixel.net/Gems-Jewelry-Treasure-Beads-Pearls-Gold-Silver-611867
+
+-D20: https://pixabay.com/illustrations/d20-dice-dungeons-dragons-2699387/
